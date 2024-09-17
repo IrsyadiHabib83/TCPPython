@@ -3,8 +3,11 @@
 TCP (Transmission control protocol) ialah suatu protokol komunikasi dalam jaringan yang memerlukan koneksi untuk melakukan komunikasi antar perangkat yang menggunakan proses 3 way handshake pada pengkoneksiannya.
 
 **Fitur:**
+
 Implementasi basic TCP/IP komunikasi dengan menggunakan library socket 
+
 Server dapat menghandle setiap pesan yang masuk dari client
+
 Client dapat mengirimkan pesan keserver dan menerima kembali pesan dari server
 
 **How to run:**
