@@ -1,4 +1,4 @@
-`**TCP menggunakan python**`
+                                                                                                      **TCP menggunakan python**
 TCP (Transmission control protocol) ialah suatu protokol komunikasi dalam jaringan yang memerlukan koneksi untuk melakukan komunikasi antar perangkat yang menggunakan proses 3 way handshake pada pengkoneksiannya.
 
 **Fitur:**
